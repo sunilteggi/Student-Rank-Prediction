@@ -1,10 +1,5 @@
 # Student-Rank-Prediction
 ![Image](https://github.com/user-attachments/assets/388574f6-8d1b-4518-8fb0-d9f36ee6011b)
 ![Image](https://github.com/user-attachments/assets/c6851b80-8d79-4c1a-ad58-a468490eadb0)
-![Image](https://github.com/user-attachments/assets/795a5dc0-4962-451d-bf94-649f21b9c390)
-![Image](https://github.com/user-attachments/assets/cb5b2ec8-bc56-4f14-bf00-5ae0a17951fe)
-![Image](https://github.com/user-attachments/assets/1181fa81-d265-4751-a1f6-de43c87e3075)
-![Image](https://github.com/user-attachments/assets/baa68877-c2c5-4b5e-ab99-c9580bd9673a)
-![Image](https://github.com/user-attachments/assets/6d597312-3d8f-4fc2-867a-1f90031c5c7f)
-![Image](https://github.com/user-attachments/assets/106392ef-ec0d-49ae-946e-02412d9b489d)
+
 ![Image](https://github.com/user-attachments/assets/67c36966-b57d-46a0-b32f-b685fe48a3c1)
