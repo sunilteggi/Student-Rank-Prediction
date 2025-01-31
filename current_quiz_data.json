@@ -1,0 +1,25 @@
+[
+  {
+      "student_id": 1,
+      "quiz1": 80,
+      "quiz2": 85,
+      "quiz3": 90,
+      "quiz4": 88,
+      "quiz5": 75,
+      "correct_answers": 42,
+      "total_questions": 50
+  },
+  {
+      "student_id": 2,
+      "quiz1": 60,
+      "quiz2": 65,
+      "quiz3": 70,
+      "quiz4": 75,
+      "quiz5": 80,
+      "correct_answers": 39,
+      "total_questions": 50
+  }
+]
+
+
+
